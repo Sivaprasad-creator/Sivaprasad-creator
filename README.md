@@ -82,3 +82,7 @@
 
 ### 👁️ Profile Views
 ![](https://komarev.com/ghpvc/?username=Sivaprasad-creator&color=blue)
+
+## 🐍 Snake eating my GitHub contributions
+
+![snake gif](https://github.com/Sivaprasad-creator/Sivaprasad-creator/blob/output/github-contribution-grid-snake.svg)
